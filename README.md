@@ -23,7 +23,7 @@ UnicodeUtils works with Ruby 1.9.1 or later.
 
 ## Quickstart
 
-Just type ruby viselitsa.rb in a viselitsa project's folder.
+Just run ruby file from project's home folder.
 
 ```
 $ cd my/cool/ruby/project
